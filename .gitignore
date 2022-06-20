@@ -130,3 +130,5 @@ dmypy.json
 
 # Pickle files
 *.pkl
+
+data/final_files/large_files/
