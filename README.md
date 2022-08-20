@@ -14,6 +14,6 @@ The following data sources are used:
 3. [WikiData](https://wikidata.org)
 
 
-In notebook B, we are analyzing the resulting dataset.
+In notebook B, we are analyzing the resulting dataset in terms of author characteristics.
 
 
