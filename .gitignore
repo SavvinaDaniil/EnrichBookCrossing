@@ -1,3 +1,6 @@
+# original large files
+data/hack4dk2017/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
