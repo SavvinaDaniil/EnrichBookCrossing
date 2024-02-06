@@ -281,3 +281,67 @@
 [W 2024-02-06 16:25:49.843 ServerApp] Notebook DBCData.ipynb is not trusted
 [I 2024-02-06 16:27:49.921 ServerApp] Saving file at /DBCData.ipynb
 [W 2024-02-06 16:27:49.923 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:29:50.860 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:29:50.868 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:31:17.283 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:31:18.813 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:31:18.996 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:31:19.162 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:31:19.330 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:31:19.479 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:31:21.518 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[W 2024-02-06 16:31:31.168 ServerApp] delete /data/large_files/DBC_loans.pkl
+[I 2024-02-06 16:31:44.006 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:32:11.788 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:33:41.997 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:33:42.612 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:33:43.145 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:33:43.329 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:33:43.496 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:33:45.709 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:33:51.793 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:33:51.794 ServerApp] Notebook DBCData.ipynb is not trusted
+[W 2024-02-06 16:33:55.910 ServerApp] delete /data/large_files/DBC_loans.pkl
+[I 2024-02-06 16:35:36.337 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:35:36.688 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:35:36.871 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:35:37.053 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:35:38.037 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:35:38.222 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:35:38.389 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:35:52.788 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:35:52.797 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:36:33.002 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:17.367 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:17.583 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:17.733 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:17.884 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:18.034 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:18.185 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:18.401 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:18.635 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:18.851 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:19.001 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:20.389 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:40.712 ServerApp] Kernel restarted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:40.717 ServerApp] Starting buffering for 6205d056-d832-46d3-920d-a2bc99a327a8:5886553c-5fbb-4eaa-ad0c-061a96a93428
+[I 2024-02-06 16:38:40.722 ServerApp] Connecting to kernel 6205d056-d832-46d3-920d-a2bc99a327a8.
+[I 2024-02-06 16:38:40.722 ServerApp] Restoring connection for 6205d056-d832-46d3-920d-a2bc99a327a8:5886553c-5fbb-4eaa-ad0c-061a96a93428
+[I 2024-02-06 16:38:41.215 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:38:41.216 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:38:42.171 ServerApp] Kernel restarted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:38:42.175 ServerApp] Starting buffering for 6205d056-d832-46d3-920d-a2bc99a327a8:5886553c-5fbb-4eaa-ad0c-061a96a93428
+[I 2024-02-06 16:38:42.179 ServerApp] Connecting to kernel 6205d056-d832-46d3-920d-a2bc99a327a8.
+[I 2024-02-06 16:38:42.179 ServerApp] Restoring connection for 6205d056-d832-46d3-920d-a2bc99a327a8:5886553c-5fbb-4eaa-ad0c-061a96a93428
+[I 2024-02-06 16:40:41.242 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:40:41.242 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:42:41.277 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:42:41.278 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:46:41.409 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:46:41.415 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:50:41.494 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:50:41.497 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:58:41.597 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:58:41.599 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 17:10:35.009 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 17:10:35.010 ServerApp] Notebook DBCData.ipynb is not trusted
