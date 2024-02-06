@@ -1,0 +1,283 @@
+[W 2024-02-06 15:14:59.601 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-02-06 15:14:59.602 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-02-06 15:14:59.604 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-02-06 15:14:59.607 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-02-06 15:14:59.610 ServerApp] notebook | extension was successfully linked.
+[I 2024-02-06 15:14:59.796 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-02-06 15:14:59.831 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-02-06 15:14:59.833 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-02-06 15:14:59.834 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-02-06 15:14:59.836 LabApp] JupyterLab extension loaded from /Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyterlab
+[I 2024-02-06 15:14:59.836 LabApp] JupyterLab application directory is /Users/savvina/opt/anaconda3/envs/enrich/share/jupyter/lab
+[I 2024-02-06 15:14:59.836 LabApp] Extension Manager is 'pypi'.
+[I 2024-02-06 15:14:59.838 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-02-06 15:14:59.840 ServerApp] notebook | extension was successfully loaded.
+[I 2024-02-06 15:14:59.841 ServerApp] Serving notebooks from local directory: /Users/savvina/Desktop/EnrichBookCrossing
+[I 2024-02-06 15:14:59.841 ServerApp] Jupyter Server 2.12.5 is running at:
+[I 2024-02-06 15:14:59.841 ServerApp] http://localhost:8888/tree?token=531596e37bbe5fbe47b62cf696eeee495ef68cdd24960e50
+[I 2024-02-06 15:14:59.841 ServerApp]     http://127.0.0.1:8888/tree?token=531596e37bbe5fbe47b62cf696eeee495ef68cdd24960e50
+[I 2024-02-06 15:14:59.841 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-02-06 15:14:59.844 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/savvina/Library/Jupyter/runtime/jpserver-2947-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=531596e37bbe5fbe47b62cf696eeee495ef68cdd24960e50
+        http://127.0.0.1:8888/tree?token=531596e37bbe5fbe47b62cf696eeee495ef68cdd24960e50
+[I 2024-02-06 15:14:59.862 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[E 2024-02-06 15:15:12.172 ServerApp] Could not open static file ''
+[W 2024-02-06 15:15:12.186 JupyterNotebookApp] 404 GET /tree/Desktop/EnrichBookCrossing/data/large_files/hack4dk2017 (fd6ddc6c13264ba08c6e9b984ed90a8f@127.0.0.1) 24.76ms referer=None
+[W 2024-02-06 15:15:12.268 ServerApp] 404 GET /static/notebook/style/bootstrap.min.css (fd6ddc6c13264ba08c6e9b984ed90a8f@127.0.0.1) 4.37ms referer=http://127.0.0.1:8888/tree/Desktop/EnrichBookCrossing/data/large_files/hack4dk2017
+[W 2024-02-06 15:15:12.268 ServerApp] 403 GET /static/notebook/style/bootstrap-theme.min.css (127.0.0.1): style/bootstrap-theme.min.css is not in root static directory
+[W 2024-02-06 15:15:12.269 ServerApp] 403 GET /static/notebook/style/bootstrap-theme.min.css (fd6ddc6c13264ba08c6e9b984ed90a8f@127.0.0.1) 4.92ms referer=http://127.0.0.1:8888/tree/Desktop/EnrichBookCrossing/data/large_files/hack4dk2017
+[W 2024-02-06 15:15:12.269 ServerApp] 403 GET /static/notebook/style/index.css (127.0.0.1): style/index.css is not in root static directory
+[W 2024-02-06 15:15:12.270 ServerApp] 403 GET /static/notebook/style/index.css (fd6ddc6c13264ba08c6e9b984ed90a8f@127.0.0.1) 5.73ms referer=http://127.0.0.1:8888/tree/Desktop/EnrichBookCrossing/data/large_files/hack4dk2017
+[W 2024-02-06 15:15:12.271 ServerApp] 403 GET /static/notebook/logo/logo.png (127.0.0.1): logo/logo.png is not in root static directory
+[W 2024-02-06 15:15:12.289 ServerApp] 403 GET /static/notebook/logo/logo.png (fd6ddc6c13264ba08c6e9b984ed90a8f@127.0.0.1) 24.90ms referer=http://127.0.0.1:8888/tree/Desktop/EnrichBookCrossing/data/large_files/hack4dk2017
+[W 2024-02-06 15:15:12.435 ServerApp] 403 GET /static/notebook/favicon.ico (127.0.0.1): favicon.ico is not in root static directory
+[W 2024-02-06 15:15:12.436 ServerApp] 403 GET /static/notebook/favicon.ico (fd6ddc6c13264ba08c6e9b984ed90a8f@127.0.0.1) 2.53ms referer=http://127.0.0.1:8888/tree/Desktop/EnrichBookCrossing/data/large_files/hack4dk2017
+[I 2024-02-06 15:17:01.126 ServerApp] Shutting down on /api/shutdown request.
+[I 2024-02-06 15:17:01.127 ServerApp] Shutting down 5 extensions
+[W 2024-02-06 15:20:47.199 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-02-06 15:20:47.199 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-02-06 15:20:47.201 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-02-06 15:20:47.204 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-02-06 15:20:47.206 ServerApp] notebook | extension was successfully linked.
+[W 2024-02-06 15:20:47.334 ServerApp] jupyter_nbextensions_configurator | error adding extension (enabled: True): The module 'jupyter_nbextensions_configurator' could not be found (No module named 'notebook.base'). Are you sure the extension is installed?
+    Traceback (most recent call last):
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/extension/manager.py", line 322, in add_extension
+        extpkg = ExtensionPackage(name=extension_name, enabled=enabled)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/extension/manager.py", line 186, in __init__
+        self._load_metadata()
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/extension/manager.py", line 201, in _load_metadata
+        raise ExtensionModuleNotFound(msg) from None
+    jupyter_server.extension.utils.ExtensionModuleNotFound: The module 'jupyter_nbextensions_configurator' could not be found (No module named 'notebook.base'). Are you sure the extension is installed?
+[I 2024-02-06 15:20:47.335 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-02-06 15:20:47.362 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-02-06 15:20:47.363 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-02-06 15:20:47.364 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-02-06 15:20:47.365 LabApp] JupyterLab extension loaded from /Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyterlab
+[I 2024-02-06 15:20:47.365 LabApp] JupyterLab application directory is /Users/savvina/opt/anaconda3/envs/enrich/share/jupyter/lab
+[I 2024-02-06 15:20:47.366 LabApp] Extension Manager is 'pypi'.
+[I 2024-02-06 15:20:47.368 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-02-06 15:20:47.369 ServerApp] notebook | extension was successfully loaded.
+[I 2024-02-06 15:20:47.370 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-02-06 15:20:47.370 ServerApp] Serving notebooks from local directory: /Users/savvina/Desktop/EnrichBookCrossing
+[I 2024-02-06 15:20:47.370 ServerApp] Jupyter Server 2.12.5 is running at:
+[I 2024-02-06 15:20:47.371 ServerApp] http://localhost:8889/tree?token=a11d94a8c3aa27eb83795a6a3e1a8a2aa0a8755100c364ca
+[I 2024-02-06 15:20:47.371 ServerApp]     http://127.0.0.1:8889/tree?token=a11d94a8c3aa27eb83795a6a3e1a8a2aa0a8755100c364ca
+[I 2024-02-06 15:20:47.371 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-02-06 15:20:47.374 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/savvina/Library/Jupyter/runtime/jpserver-3174-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/tree?token=a11d94a8c3aa27eb83795a6a3e1a8a2aa0a8755100c364ca
+        http://127.0.0.1:8889/tree?token=a11d94a8c3aa27eb83795a6a3e1a8a2aa0a8755100c364ca
+[I 2024-02-06 15:20:47.392 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2024-02-06 15:20:59.274 ServerApp] Notebook DBCData.ipynb is not trusted
+[E 2024-02-06 15:20:59.339 ServerApp] Uncaught exception GET /api/nbconvert?1707229258391 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8889', method='GET', uri='/api/nbconvert?1707229258391', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/services/nbconvert/handlers.py", line 40, in get
+        exporters = await run_sync(base.get_export_names)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/_backends/_asyncio.py", line 2134, in run_sync_in_worker_thread
+        return await future
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+        result = context.run(func, *args)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/nbconvert/exporters/base.py", line 145, in get_export_names
+        e = get_exporter(exporter_name)(config=config)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/nbconvert/exporters/base.py", line 106, in get_exporter
+        exporter = items[0].load()
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/importlib_metadata/__init__.py", line 184, in load
+        module = import_module(match.group('module'))
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/importlib/__init__.py", line 127, in import_module
+        return _bootstrap._gcd_import(name[level:], package, level)
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 972, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 972, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+      File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_contrib_nbextensions/__init__.py", line 5, in <module>
+        import jupyter_nbextensions_configurator
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_nbextensions_configurator/__init__.py", line 18, in <module>
+        from notebook.base.handlers import APIHandler, IPythonHandler
+    ModuleNotFoundError: No module named 'notebook.base'
+[W 2024-02-06 15:20:59.343 ServerApp] wrote error: 'Unhandled error'
+    Traceback (most recent call last):
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/services/nbconvert/handlers.py", line 40, in get
+        exporters = await run_sync(base.get_export_names)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/_backends/_asyncio.py", line 2134, in run_sync_in_worker_thread
+        return await future
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+        result = context.run(func, *args)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/nbconvert/exporters/base.py", line 145, in get_export_names
+        e = get_exporter(exporter_name)(config=config)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/nbconvert/exporters/base.py", line 106, in get_exporter
+        exporter = items[0].load()
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/importlib_metadata/__init__.py", line 184, in load
+        module = import_module(match.group('module'))
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/importlib/__init__.py", line 127, in import_module
+        return _bootstrap._gcd_import(name[level:], package, level)
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 972, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 972, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+      File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_contrib_nbextensions/__init__.py", line 5, in <module>
+        import jupyter_nbextensions_configurator
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_nbextensions_configurator/__init__.py", line 18, in <module>
+        from notebook.base.handlers import APIHandler, IPythonHandler
+    ModuleNotFoundError: No module named 'notebook.base'
+[E 2024-02-06 15:20:59.344 ServerApp] {
+      "Host": "localhost:8889",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8889/tree",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+    }
+[E 2024-02-06 15:20:59.344 ServerApp] 500 GET /api/nbconvert?1707229258391 (e45cc61738db4bedafa10ae5d41c248e@::1) 949.52ms referer=http://localhost:8889/tree
+[W 2024-02-06 15:21:00.747 ServerApp] Notebook DBCData.ipynb is not trusted
+[E 2024-02-06 15:21:00.760 ServerApp] Uncaught exception GET /api/nbconvert?1707229260675 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8889', method='GET', uri='/api/nbconvert?1707229260675', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/services/nbconvert/handlers.py", line 40, in get
+        exporters = await run_sync(base.get_export_names)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/_backends/_asyncio.py", line 2134, in run_sync_in_worker_thread
+        return await future
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+        result = context.run(func, *args)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/nbconvert/exporters/base.py", line 145, in get_export_names
+        e = get_exporter(exporter_name)(config=config)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/nbconvert/exporters/base.py", line 106, in get_exporter
+        exporter = items[0].load()
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/importlib_metadata/__init__.py", line 184, in load
+        module = import_module(match.group('module'))
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/importlib/__init__.py", line 127, in import_module
+        return _bootstrap._gcd_import(name[level:], package, level)
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 972, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 972, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+      File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_contrib_nbextensions/__init__.py", line 5, in <module>
+        import jupyter_nbextensions_configurator
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_nbextensions_configurator/__init__.py", line 18, in <module>
+        from notebook.base.handlers import APIHandler, IPythonHandler
+    ModuleNotFoundError: No module named 'notebook.base'
+[W 2024-02-06 15:21:00.760 ServerApp] wrote error: 'Unhandled error'
+    Traceback (most recent call last):
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_server/services/nbconvert/handlers.py", line 40, in get
+        exporters = await run_sync(base.get_export_names)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/_backends/_asyncio.py", line 2134, in run_sync_in_worker_thread
+        return await future
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+        result = context.run(func, *args)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/nbconvert/exporters/base.py", line 145, in get_export_names
+        e = get_exporter(exporter_name)(config=config)
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/nbconvert/exporters/base.py", line 106, in get_exporter
+        exporter = items[0].load()
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/importlib_metadata/__init__.py", line 184, in load
+        module = import_module(match.group('module'))
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/importlib/__init__.py", line 127, in import_module
+        return _bootstrap._gcd_import(name[level:], package, level)
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 972, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 972, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+      File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+      File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+      File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+      File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+      File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_contrib_nbextensions/__init__.py", line 5, in <module>
+        import jupyter_nbextensions_configurator
+      File "/Users/savvina/opt/anaconda3/envs/enrich/lib/python3.9/site-packages/jupyter_nbextensions_configurator/__init__.py", line 18, in <module>
+        from notebook.base.handlers import APIHandler, IPythonHandler
+    ModuleNotFoundError: No module named 'notebook.base'
+[E 2024-02-06 15:21:00.761 ServerApp] {
+      "Host": "localhost:8889",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8889/notebooks/DBCData.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+    }
+[E 2024-02-06 15:21:00.761 ServerApp] 500 GET /api/nbconvert?1707229260675 (e45cc61738db4bedafa10ae5d41c248e@::1) 83.78ms referer=http://localhost:8889/notebooks/DBCData.ipynb
+[I 2024-02-06 15:21:01.101 ServerApp] Kernel started: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 15:21:01.586 ServerApp] Connecting to kernel 6205d056-d832-46d3-920d-a2bc99a327a8.
+[I 2024-02-06 15:37:00.825 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 15:37:00.825 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 15:39:00.852 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 15:39:00.856 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 15:41:26.351 ServerApp] Starting buffering for 6205d056-d832-46d3-920d-a2bc99a327a8:5886553c-5fbb-4eaa-ad0c-061a96a93428
+[I 2024-02-06 15:41:26.509 ServerApp] Connecting to kernel 6205d056-d832-46d3-920d-a2bc99a327a8.
+[I 2024-02-06 15:41:26.509 ServerApp] Restoring connection for 6205d056-d832-46d3-920d-a2bc99a327a8:5886553c-5fbb-4eaa-ad0c-061a96a93428
+[I 2024-02-06 16:07:44.459 ServerApp] Kernel interrupted: 6205d056-d832-46d3-920d-a2bc99a327a8
+[I 2024-02-06 16:07:47.891 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:07:47.892 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:09:47.914 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:09:47.915 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:15:47.964 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:15:47.968 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:17:48.045 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:17:48.048 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:19:48.843 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:19:48.847 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:25:49.838 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:25:49.843 ServerApp] Notebook DBCData.ipynb is not trusted
+[I 2024-02-06 16:27:49.921 ServerApp] Saving file at /DBCData.ipynb
+[W 2024-02-06 16:27:49.923 ServerApp] Notebook DBCData.ipynb is not trusted
