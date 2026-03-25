@@ -17,3 +17,4 @@ The following data sources are used:
 In notebook B, we are analyzing the resulting dataset in terms of author characteristics.
 
 
+*This research was carried out with funding from the KB National Library of the Netherlands.*
